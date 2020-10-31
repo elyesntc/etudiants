@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS etudiants (
+CREATE TABLE IF NOT EXISTS etudiant (
     id INT(10) NOT NULL,
     prenom VARCHAR(100) NOT NULL,
     nom VARCHAR(100) NOT NULL,
