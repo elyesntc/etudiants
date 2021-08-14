@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS etudiants (
-    id INT(10) NOT NULL,
+    id INT(10) NOT NULL AUTO_INCREMENT,
     prenom VARCHAR(100) NOT NULL,
     nom VARCHAR(100) NOT NULL,
     departement VARCHAR(100) NOT NULL,
